@@ -1,4 +1,4 @@
-<img src="https://github.com/rupeshksingh/rupeshksingh/assets/121041587/6a126898-e87e-49d5-8440-681e080e4b1f" alt="Rupesh Kumar Singh" align="left" width="800" height="600">
+<img src="https://github.com/rupeshksingh/rupeshksingh/assets/121041587/6a126898-e87e-49d5-8440-681e080e4b1f" alt="Rupesh Kumar Singh" align="left" width="40%">
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rupeshksingh&style=flat-square&color=EA4AAA"></img>
